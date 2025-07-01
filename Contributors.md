@@ -4,6 +4,7 @@ vanakkam da Mapala...
 -[Sourav Sahoo] (https://github.com/SouravSahoo-D) - Hellow all, this my first ever GIT open source contribution.
 -[Pruthviraj Patil] (https://github.com/pruthvirajpatil2024) - Hello i am doing this contribution in intent of learning open source contribution.  
 -[Jyoti Lalwani](https://github.com/Jyoti520) - first time contribution to open source
+- [Maham Zaidi](https://github.com/maham-zaidi) - this is my first contribution to open source! hope i get to keep the number 7 spot hehe - 1/07/2025
 -[WangZhenYU](https://github.com/wausdjaks) -Ciallo~  
 -[Sonakshi](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 5. 
 -[Vijay vardhan](https://github.com/sonakshi555) - heyy there, today 30/06/2025 , when i marked my first contribution to open source in the line 6. 
